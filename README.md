@@ -11,7 +11,7 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C#, T-SQL, JavaScript, HTML, CSS, JSON, XML  
+- **Languages:** C#, JavaScript, HTML, CSS, JSON, XML  
 - **Frameworks:** .NET Framework, .NET Core, ASP.NET, Entity Framework  
 - **Databases:** SQL Server, MySQL  
 - **Cloud & DevOps:** Azure, GitHub Actions, Azure DevOps  
@@ -30,15 +30,14 @@
 
 ## 📈 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetdobariya&show_icons=true&theme=radical)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mm-Meetd&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/meet-dobariya-159b94228/)
-- 📧 Email: _[your.email@example.com]_
-- 🌐 Portfolio: _[optional if you have one]_
+- 📧 Email: mm.meetd@gmail.com
 
 ---
 
